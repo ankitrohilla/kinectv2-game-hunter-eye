@@ -1,0 +1,18 @@
+C:\Users\Ankit\Desktop\Kinect v2 genuine unmodified\Hunting Eye\bin\AnyCPU\Debug\Hunting Eye.exe.config
+C:\Users\Ankit\Desktop\Kinect v2 genuine unmodified\Hunting Eye\obj\Debug\Hunting Eye.exe
+C:\Users\Ankit\Desktop\Kinect v2 genuine unmodified\Hunting Eye\obj\Debug\Hunting Eye.pdb
+C:\Users\Ankit\Desktop\Kinect v2 genuine unmodified\Hunting Eye\obj\Debug\MainWindow.baml
+C:\Users\Ankit\Desktop\Kinect v2 genuine unmodified\Hunting Eye\obj\Debug\MainWindow.g.cs
+C:\Users\Ankit\Desktop\Kinect v2 genuine unmodified\Hunting Eye\obj\Debug\App.g.cs
+C:\Users\Ankit\Desktop\Kinect v2 genuine unmodified\Hunting Eye\obj\Debug\Hunting Eye_MarkupCompile.cache
+C:\Users\Ankit\Desktop\Kinect v2 genuine unmodified\Hunting Eye\obj\Debug\Hunting Eye.g.resources
+C:\Users\Ankit\Desktop\Kinect v2 genuine unmodified\Hunting Eye\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\Ankit\Desktop\Kinect v2 genuine unmodified\Hunting Eye\obj\Debug\Hunting Eye.csproj.GenerateResource.Cache
+C:\Users\Ankit\Desktop\Kinect v2 genuine unmodified\Hunting Eye\bin\AnyCPU\Debug\Hunting Eye.exe
+C:\Users\Ankit\Desktop\Kinect v2 genuine unmodified\Hunting Eye\bin\AnyCPU\Debug\Hunting Eye.pdb
+C:\Users\Ankit\Desktop\Kinect v2 genuine unmodified\Hunting Eye\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Ankit\Desktop\Kinect v2 genuine unmodified\Hunting Eye\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Ankit\Desktop\Kinect v2 genuine unmodified\Hunting Eye\obj\Debug\Hunting Eye.csprojResolveAssemblyReference.cache
+C:\Users\Ankit\Desktop\FINAL\Hunting Eye\bin\AnyCPU\Debug\Hunting Eye.exe.config
+C:\Users\Ankit\Desktop\FINAL\Hunting Eye\obj\Debug\Hunting Eye.exe
+C:\Users\Ankit\Desktop\FINAL\Hunting Eye\obj\Debug\Hunting Eye.pdb
